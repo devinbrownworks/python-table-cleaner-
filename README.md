@@ -4,7 +4,7 @@ This project was created during an internship for the County of Sonoma Informati
 
 This project is using Python3 and takes advantage of the following open source advancced natural language procesing libraries https://github.com/datamade/usaddress and https://github.com/GreenBuildingRegistry/usaddress-scourgify both of which can be installed using pip install with the names usadress and usadress-scourgify.
 
-
-
+refineTable.py is the main file and can be ran like $python refinetable.py filename.csv\
+This will output an updated .csv file.  
 
 
